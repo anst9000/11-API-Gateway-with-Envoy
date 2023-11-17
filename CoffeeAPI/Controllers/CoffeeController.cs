@@ -5,7 +5,7 @@ namespace CoffeeAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class CoffeController : ControllerBase
+    public class CoffeeController : ControllerBase
     {
         private static readonly string[] Coffees = new[]
         {

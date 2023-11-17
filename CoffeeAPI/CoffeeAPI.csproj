@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <UserSecretsId>Tea-8bcb1b00-bfe3-4542-a653-bfb190f1273b</UserSecretsId>
+    <UserSecretsId>Coffee-7c658438-b35f-428c-be5a-248bfa6fdafa</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
